@@ -112,11 +112,11 @@
   - {name: "google-plus", link: "https://plus.google.com/"}
 -
   id: 23
-  name: "Javi"
+  name: "Andrés Leonardo Martínez"
   surname: ""
-  company: ""
+  company: "Google"
   title: ""
-  bio: ""
+  bio: "Andrés es Developer Relations Program Manager para Google en España. Con una amplia experiencia en I+D e ingeniería del software, gran parte de su carrera profesional se ha centrado en la planificación e implementación de proyectos de innovación relacionados con los paradigmas de OpenSource, trabajando anteriormente para empresas como Telefónica."
   thumbnailUrl: unkown_boy.png
   rockstar: true
   social:
