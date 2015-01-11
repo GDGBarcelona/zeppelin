@@ -108,8 +108,8 @@
   complexity: "Intermediate"
 -
   id: 105
-  title: "Apache Flex"
-  description: ""
+  title: "Introducción a docker"
+  description: "Docker significa la virtualización al servicio de los los programadores. Podremos entender como funciona esta tecnología y como podemos usarla para desplegar nuestras aplicaciones desde nuestro portátil o entorno de programación y migrarlo en un Cloud manteniendo la integridad de librerías que usamos en el sistema o de nuestro framework favorito."
   subtype: presentation
   speakers: [24]
   language: es
