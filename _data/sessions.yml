@@ -116,8 +116,8 @@
   complexity: "Intermediate"
 -
   id: 106
-  title: "Dart"
-  description: ""
+  title: "A tour of Dart"
+  description: "En noviembre de 2013 aparece el proyecto de open source Dart 1.0 ,(actualmente 1.8.3) como la alternativa moderna al lenguaje de programación web, estructurado pero flexible. Con una sintaxis familiar y mejor rendimiento. ¿Quieres saber más? https://www.dartlang.org/"
   subtype: presentation
   speakers: [25]
   language: es
