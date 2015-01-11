@@ -85,7 +85,7 @@
 -
   id: 102
   title: "Android Wear"
-  description: ""
+  description: "Google nos ha proporcionado una plataforma extra para dar rienda suelta a nuestra imaginación. Nuevos casos de uso se atisban, pero antes de hacer la aplicación del millón de dólares deberíamos tener los conocimientos básicos para movernos en este nuevo paradigma. En esta charla conoceréis las posibilidades de la plataforma y aprenderéis a programar para aprovechar los nuevos dispositivos con Android wear."
   subtype: presentation
   speakers: [21]
   language: es
