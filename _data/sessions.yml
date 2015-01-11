@@ -24,8 +24,7 @@
 -
   id: 002
   title: "It is about philosophy: culture of a good programmer"
-  description: "Philosophy is the study of general and fundamental problems, such as those connected with reality, existence, knowledge, values, reason, mind, and language.
-"
+  description: "Philosophy is the study of general and fundamental problems, such as those connected with reality, existence, knowledge, values, reason, mind, and language."
   subtype: presentation
   speakers: [4]
   language: es
@@ -33,7 +32,7 @@
 
 -
   id: 003
-  title: "Animaciones y transiciones en Lollipop"
+  title: "What Material Design means to Android"
   description: "What Material Design means to Android"
   subtype: presentation
   speakers: [5]
