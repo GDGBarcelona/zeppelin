@@ -15,16 +15,16 @@
   service: true
 -
   id: 001
-  title: ""
-  description: ""
+  title: "Building First Class Android SDKs"
+description: "The Android app ecosystem is an international phenomenon. Developers need better tools now, more than ever, and the number of third-party SDKs is also growing to meet the developer's needs. Unfortunately, many of these SDKs are poorly developed and extremely difficult to use. In fact, at Twitter on the Crashlytics team, we've detected a significant percentage of issues caused by third-party SDKs."
   subtype: presentation
   speakers: [3]
   language: es
   complexity: "Intermediate"
 -
   id: 002
-  title: ""
-  description: ""
+  title: "It is about philosophy: culture of a good programmer"
+  description: "Philosophy is the study of general and fundamental problems, such as those connected with reality, existence, knowledge, values, reason, mind, and language."
   subtype: presentation
   speakers: [4]
   language: es
