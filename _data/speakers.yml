@@ -105,7 +105,7 @@
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Nacho ha estado re-aprendiendo Java y JavaScript durante los últimos 15 años para ayudar a construir aplicaciones a grandes corporaciones, startups, y hippies del open-source. Desde Diciembre de 2014 es Google Developer Expert para Cloud Platform. Dice que elige ser calvo para refrescar la CPU."
   thumbnailUrl: unkown_boy.png
   rockstar: true
   social:
@@ -127,18 +127,18 @@
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Mario lleva trabajando montando ampliando y planificando Datacenter para empresas usando sistemas con virtualización desde más de 10 años, está certificado en varios niveles de VCP de VMWARE, EMC lo que no deja de ser compatible con los demás sistemas XEN, Citrix, Hyperv. Básicamente trabaja y mantiene a diario todo tipo de sistemas, con GNULinux o Windows, ( y no se que hace con un Mac)."
   thumbnailUrl: unkown_boy.png
   rockstar: true
   social:
   - {name: "google-plus", link: "https://plus.google.com/"}
 -
   id: 25
-  name: "Albert"
+  name: "Alberto"
   surname: ""
   company: ""
   title: ""
-  bio: ""
+  bio: "Administrador Cloudera en el departamento de BigData en BEEVA (BBVA), Alberto es Ingeniero Técnico en Sistemas, Ing.Informático y tiene un Máster en Desarrollo Software, apasionado de los startup weekends y de las nuevas tecnologías. Es organizador del GDGGranada."
   thumbnailUrl: unkown_boy.png
   rockstar: true
   social:
