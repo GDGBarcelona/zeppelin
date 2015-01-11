@@ -92,8 +92,8 @@
   complexity: "Intermediate"
 -
   id: 103
-  title: "Cloud"
-  description: ""
+  title: "Introducción a Google Cloud Platform"
+  description: "Google lleva quince años desplegando una de las infraestructuras hardware más potentes del planeta para dar servicio a sus productos desplegados en la nube. Desde hace relativamente poco, esta plataforma se ha abierto para que los usuarios de Google Cloud Platform puedan desplegar sus servicios compartiendo infraestructura con Google Search, GMail o Youtube."
   subtype: presentation
   speakers: [22]
   language: es
@@ -124,8 +124,8 @@
   complexity: "Intermediate"
 -
   id: 107
-  title: "Polymer"
-  description: ""
+  title: "Polymer: construyendo la web por piezas"
+  description: "Se abordará la generación de nuevas webs, orientadas a construirse mediante la definición de Web Components y como la librería Polymer de Google facilita esta labor. Mostraremos ejemplos de como se construyen y se utilizan, y como el ecosistema está aceptando este nuevo paradigma de diseño y desarrollo Web."
   subtype: presentation
   speakers: [26]
   language: es
