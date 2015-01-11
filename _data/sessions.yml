@@ -16,7 +16,7 @@
 -
   id: 001
   title: "Building First Class Android SDKs"
-description: "The Android app ecosystem is an international phenomenon. Developers need better tools now, more than ever, and the number of third-party SDKs is also growing to meet the developer's needs. Unfortunately, many of these SDKs are poorly developed and extremely difficult to use. In fact, at Twitter on the Crashlytics team, we've detected a significant percentage of issues caused by third-party SDKs."
+  description: "The Android app ecosystem is an international phenomenon. Developers need better tools now, more than ever, and the number of third-party SDKs is also growing to meet the developer's needs. Unfortunately, many of these SDKs are poorly developed and extremely difficult to use. In fact, at Twitter on the Crashlytics team, we've detected a significant percentage of issues caused by third-party SDKs."
   subtype: presentation
   speakers: [3]
   language: es
@@ -24,7 +24,8 @@ description: "The Android app ecosystem is an international phenomenon. Develope
 -
   id: 002
   title: "It is about philosophy: culture of a good programmer"
-  description: "Philosophy is the study of general and fundamental problems, such as those connected with reality, existence, knowledge, values, reason, mind, and language."
+  description: "Philosophy is the study of general and fundamental problems, such as those connected with reality, existence, knowledge, values, reason, mind, and language.
+"
   subtype: presentation
   speakers: [4]
   language: es
@@ -33,7 +34,7 @@ description: "The Android app ecosystem is an international phenomenon. Develope
 -
   id: 003
   title: "Animaciones y transiciones en Lollipop"
-  description: ""
+  description: "What Material Design means to Android"
   subtype: presentation
   speakers: [5]
   language: es
@@ -41,8 +42,8 @@ description: "The Android app ecosystem is an international phenomenon. Develope
 
 -
   id: 004
-  title: "Working with AOSP"
-  description: ""
+  title: "Aprendiendo Android con AOSP"
+  description: "En mi vida como programador de android he tenido muchas preguntas sin respuestas, y no todas las respuestas están en StackOverflow o las sabe Mark Murphy. Veremos como funcionan las aplicaciones preinstaladas, como 'pinnear' android y como hacer aplicaciones para root."
   subtype: presentation
   speakers: [8]
   language: es
