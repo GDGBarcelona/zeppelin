@@ -130,7 +130,7 @@ subscribeInfo: "Registration is now open!!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections and coffee breaks. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections and coffee. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
