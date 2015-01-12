@@ -2,8 +2,8 @@
   date: "2015-01-16"
   dateReadable: "January 16"
   tracks: 
-    - {title: "Android (Plaza Eusebio Güell)", color: "#90be4e"}
-    - {title: "Technologies++", color: "#565656"}
+    - {title: "Android", color: "#90be4e"}
+    - {title: "Technologies++ (Vertex - Plaza Eusebio Güell)", color: "#565656"}
 
 
   timeslots:
