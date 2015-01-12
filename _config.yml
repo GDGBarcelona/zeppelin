@@ -88,9 +88,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Campus Nord, UPC. Android (Vertex - Plaza Eusebio Güell) and Technologies++ (Building B6)"
+eventLocationName: "Campus Nord, UPC. Carrer de Jordi Girona,1"
 eventLocationLink: "http://www.upc.cat"
-eventStreetAddress: "1 Carrer de Jordi Girona"
+eventStreetAddress: "Track Android (Vertex - Plaza Eusebio Güell) \n and Track Technologies++ (Building B6)"
 eventAddressLocality: "Barcelona"
 eventAddressLocalityRegion: "Barcelona"
 eventPostalCode: "08034"
