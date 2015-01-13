@@ -56,7 +56,7 @@
 -
   id: 005
   title: "From Legacy to Hexagonal Android"
-  description: ""
+  description: "Esta charla comprende las lecciones aprendidas convirtiendo la app de Android de Teambox (una app repleta de deuda técnica y con un alto nivel de acoplamiento entre clases), en la versión actual de Redbooth, que intenta cumplir la arquitectura Hexagonal y los principios SOLID. Durante la exposición explicaremos como fuimos desenredando el código paso a paso; como aplicamos por partes los conceptos de la arquitectura hexagonal; como dejamos de lado componentes del framework de Android que dificultaban el mantenimiento de la app; y que errores cometimos, como los solucionamos y como se podrían haber evitado."
   subtype: presentation
   speakers: [6,7]
   language: es
@@ -65,7 +65,7 @@
 -
   id: 006
   title: "Inyección de Dependencias con Dagger"
-  description: ""
+  description: "La inyección de dependencias es una de las herramientas más potentes con la que un desarrollador puede contar. Sin embargo, en Android su uso no es del todo común. Durante esta charla contaremos en qué consiste la inyección de dependencias, de dónde viene, qué ventajas y desventajas supone su aplicación y cómo utilizar un inyector de dependencias en Android llamado Dagger."
   subtype: presentation
   speakers: [9]
   language: es
