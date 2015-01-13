@@ -4,6 +4,11 @@
   place: "Hall"
   service: true
 -
+  id: 998
+  title: "Clausura y sorteo"
+  place: "Auditorio"
+  service: true
+-
   id: 999
   title: "Inauguración"
   place: "Auditorio"
