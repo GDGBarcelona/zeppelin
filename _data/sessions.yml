@@ -23,4 +23,116 @@
   title: "Free Lunch Break"
   place: "Dining room"
   service: true
+-
+  id: 001
+  title: "Building First Class Android SDKs"
+  description: "The Android app ecosystem is an international phenomenon. Developers need better tools now, more than ever, and the number of third-party SDKs is also growing to meet the developer's needs. Unfortunately, many of these SDKs are poorly developed and extremely difficult to use. In fact, at Twitter on the Crashlytics team, we've detected a significant percentage of issues caused by third-party SDKs.<br><br>Crashlytics is well-known for its focus on SDK quality, and have been deployed on hundreds of millions of devices. In this session, attendees will learn the skills to develop and distribute SDKs for Android. We'll explore how to design and build an SDK for stability, testability, performance, overall footprint size, and, most importantly, exceptional ease of implementation. Over the course of the session, we'll develop a simple but well-architected SDK and uncover and explain many of the challenges we encountered when building SDKs at Twitter. Topics include device feature detection, supporting multiple application types (from Widgets to Services to Foreground GUI applications), API design, deploying artifacts, and coding patterns to support developer customization. We'll conclude with advanced topics, from less-known but very useful tricks to minimizing impact on application start-up time to reducing memory footprint and persistent CPU use."
+  subtype: presentation
+  speakers: [3]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 002
+  title: "It is about philosophy: culture of a good programmer"
+  description: "Philosophy is the study of general and fundamental problems, such as those connected with reality, existence, knowledge, values, reason, mind, and language.<br><br>Even though technical skills are a very positive thing, other qualifications are really more important: 'features' like respect, honesty or humility are required to become a better person and, thus, a better professional.<br><br>This is not an easy path to follow, and in order to accomplish it, let me share experiences on how to be a better programmer. Let's have a walk!"
+  subtype: presentation
+  speakers: [4]
+  language: es
+  complexity: "Intermediate" 
+-
+  id: 003
+  title: "What Material Design means to Android"
+  description: "What Material Design means to Android"
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: "Intermediate" 
+-
+  id: 004
+  title: "Aprendiendo Android con AOSP"
+  description: "En mi vida como programador de android he tenido muchas preguntas sin respuestas, y no todas las respuestas están en StackOverflow o las sabe Mark Murphy. Veremos como funcionan las aplicaciones preinstaladas, como 'pinnear' android y como hacer aplicaciones para root."
+  subtype: presentation
+  speakers: [8]
+  language: es
+  complexity: "Intermediate"
 
+-
+  id: 005
+  title: "From Legacy to Hexagonal Android"
+  description: "Esta charla comprende las lecciones aprendidas convirtiendo la app de Android de Teambox (una app repleta de deuda técnica y con un alto nivel de acoplamiento entre clases), en la versión actual de Redbooth, que intenta cumplir la arquitectura Hexagonal y los principios SOLID. Durante la exposición explicaremos como fuimos desenredando el código paso a paso; como aplicamos por partes los conceptos de la arquitectura hexagonal; como dejamos de lado componentes del framework de Android que dificultaban el mantenimiento de la app; y que errores cometimos, como los solucionamos y como se podrían haber evitado."
+  subtype: presentation
+  speakers: [6,7]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 006
+  title: "Inyección de Dependencias con Dagger"
+  description: "La inyección de dependencias es una de las herramientas más potentes con la que un desarrollador puede contar. Sin embargo, en Android su uso no es del todo común. Durante esta charla contaremos en qué consiste la inyección de dependencias, de dónde viene, qué ventajas y desventajas supone su aplicación y cómo utilizar un inyector de dependencias en Android llamado Dagger."
+  subtype: presentation
+  speakers: [9]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 007
+  title: "TBD"
+  description: ""
+  subtype: presentation
+  speakers: [8,5]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 101
+  title: "La web física"
+  description: "Andreu Ibàñez, del GDG Lleida, nos introducirá al nuevo paradigma que Google está planteando como experimento en el cual los los Smart Objects nos informarán automáticamente de miles de cosas en la calle o en los interiores de los edificios."
+  subtype: presentation
+  speakers: [20]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 102
+  title: "Android Wear"
+  description: "Google nos ha proporcionado una plataforma extra para dar rienda suelta a nuestra imaginación. Nuevos casos de uso se atisban, pero antes de hacer la aplicación del millón de dólares deberíamos tener los conocimientos básicos para movernos en este nuevo paradigma. En esta charla conoceréis las posibilidades de la plataforma y aprenderéis a programar para aprovechar los nuevos dispositivos con Android wear."
+  subtype: presentation
+  speakers: [21]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 103
+  title: "Introducción a Google Cloud Platform"
+  description: "Google lleva quince años desplegando una de las infraestructuras hardware más potentes del planeta para dar servicio a sus productos desplegados en la nube. Desde hace relativamente poco, esta plataforma se ha abierto para que los usuarios de Google Cloud Platform puedan desplegar sus servicios compartiendo infraestructura con Google Search, GMail o Youtube.<br><br>Durante esta charla Nacho Coloma, Google Developer Expert para Cloud Platform, introducirá la visión de conjunto de los productos que forman la nube de Google, cómo se pueden combinar entre sí para dar servicio a nuestras propias aplicaciones y para qué casos de uso están más indicados."
+  subtype: presentation
+  speakers: [22]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 104
+  title: "The Secrets to App Success on Google Play"
+  description: "Publishing your app on Google Play is a good start to reaching users but is only the first step if you want to grow a thriving, sustainable app business. That’s why we'vewritten a guide, called “The Secrets to App Success on Google Play”, a detailed playbook on the best practices and tools you can use to maximize the reach, retention,and revenue of your new app."
+  subtype: presentation
+  speakers: [23]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 105
+  title: "Introducción a docker"
+  description: "Docker significa la virtualización al servicio de los los programadores. Podremos entender como funciona esta tecnología y como podemos usarla para desplegar nuestras aplicaciones desde nuestro portátil o entorno de programación y migrarlo en un Cloud manteniendo la integridad de librerías que usamos en el sistema o de nuestro framework favorito.<br><br>Una tecnología que actualmente ya soporta todas las distribuciones moderna y entornos de Cloud, (Microsoft Azure, AmazonWS, Google Compute Engine, entre otros)."
+  subtype: presentation
+  speakers: [24]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 106
+  title: "A tour of Dart"
+  description: "En noviembre de 2013 aparece el proyecto de open source Dart 1.0 ,(actualmente 1.8.3) como la alternativa moderna al lenguaje de programación web, estructurado pero flexible. Con una sintaxis familiar y mejor rendimiento. ¿Quieres saber más? https://www.dartlang.org/"
+  subtype: presentation
+  speakers: [25]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 107
+  title: "Polymer: construyendo la web por piezas"
+  description: "Se abordará la generación de nuevas webs, orientadas a construirse mediante la definición de Web Components y como la librería Polymer de Google facilita esta labor. Mostraremos ejemplos de como se construyen y se utilizan, y como el ecosistema está aceptando este nuevo paradigma de diseño y desarrollo Web."
+  subtype: presentation
+  speakers: [26,27]
+  language: es
+  complexity: "Intermediate"
