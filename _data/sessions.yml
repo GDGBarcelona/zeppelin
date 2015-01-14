@@ -26,7 +26,7 @@
 -
   id: 001
   title: "Building First Class Android SDKs"
-  description: "The Android app ecosystem is an international phenomenon. Developers need better tools now, more than ever, and the number of third-party SDKs is also growing to meet the developer's needs. Unfortunately, many of these SDKs are poorly developed and extremely difficult to use. In fact, at Twitter on the Crashlytics team, we've detected a significant percentage of issues caused by third-party SDKs."
+  description: "The Android app ecosystem is an international phenomenon. Developers need better tools now, more than ever, and the number of third-party SDKs is also growing to meet the developer's needs. Unfortunately, many of these SDKs are poorly developed and extremely difficult to use. In fact, at Twitter on the Crashlytics team, we've detected a significant percentage of issues caused by third-party SDKs.<br><br>Crashlytics is well-known for its focus on SDK quality, and have been deployed on hundreds of millions of devices. In this session, attendees will learn the skills to develop and distribute SDKs for Android. We'll explore how to design and build an SDK for stability, testability, performance, overall footprint size, and, most importantly, exceptional ease of implementation. Over the course of the session, we'll develop a simple but well-architected SDK and uncover and explain many of the challenges we encountered when building SDKs at Twitter. Topics include device feature detection, supporting multiple application types (from Widgets to Services to Foreground GUI applications), API design, deploying artifacts, and coding patterns to support developer customization. We'll conclude with advanced topics, from less-known but very useful tricks to minimizing impact on application start-up time to reducing memory footprint and persistent CPU use."
   subtype: presentation
   speakers: [3]
   language: es
@@ -34,7 +34,7 @@
 -
   id: 002
   title: "It is about philosophy: culture of a good programmer"
-  description: "Philosophy is the study of general and fundamental problems, such as those connected with reality, existence, knowledge, values, reason, mind, and language."
+description: "Philosophy is the study of general and fundamental problems, such as those connected with reality, existence, knowledge, values, reason, mind, and language.<br><br>Even though technical skills are a very positive thing, other qualifications are really more important: 'features' like respect, honesty or humility are required to become a better person and, thus, a better professional.<br><br>This is not an easy path to follow, and in order to accomplish it, let me share experiences on how to be a better programmer. Let's have a walk!"
   subtype: presentation
   speakers: [4]
   language: es
@@ -102,7 +102,7 @@
 -
   id: 103
   title: "Introducción a Google Cloud Platform"
-  description: "Google lleva quince años desplegando una de las infraestructuras hardware más potentes del planeta para dar servicio a sus productos desplegados en la nube. Desde hace relativamente poco, esta plataforma se ha abierto para que los usuarios de Google Cloud Platform puedan desplegar sus servicios compartiendo infraestructura con Google Search, GMail o Youtube."
+  description: "Google lleva quince años desplegando una de las infraestructuras hardware más potentes del planeta para dar servicio a sus productos desplegados en la nube. Desde hace relativamente poco, esta plataforma se ha abierto para que los usuarios de Google Cloud Platform puedan desplegar sus servicios compartiendo infraestructura con Google Search, GMail o Youtube.<br><br>Durante esta charla Nacho Coloma, Google Developer Expert para Cloud Platform, introducirá la visión de conjunto de los productos que forman la nube de Google, cómo se pueden combinar entre sí para dar servicio a nuestras propias aplicaciones y para qué casos de uso están más indicados."
   subtype: presentation
   speakers: [22]
   language: es
@@ -118,7 +118,7 @@
 -
   id: 105
   title: "Introducción a docker"
-  description: "Docker significa la virtualización al servicio de los los programadores. Podremos entender como funciona esta tecnología y como podemos usarla para desplegar nuestras aplicaciones desde nuestro portátil o entorno de programación y migrarlo en un Cloud manteniendo la integridad de librerías que usamos en el sistema o de nuestro framework favorito."
+  description: "Docker significa la virtualización al servicio de los los programadores. Podremos entender como funciona esta tecnología y como podemos usarla para desplegar nuestras aplicaciones desde nuestro portátil o entorno de programación y migrarlo en un Cloud manteniendo la integridad de librerías que usamos en el sistema o de nuestro framework favorito.<br><br>Una tecnología que actualmente ya soporta todas las distribuciones moderna y entornos de Cloud, (Microsoft Azure, AmazonWS, Google Compute Engine, entre otros)."
   subtype: presentation
   speakers: [24]
   language: es
@@ -136,6 +136,6 @@
   title: "Polymer: construyendo la web por piezas"
   description: "Se abordará la generación de nuevas webs, orientadas a construirse mediante la definición de Web Components y como la librería Polymer de Google facilita esta labor. Mostraremos ejemplos de como se construyen y se utilizan, y como el ecosistema está aceptando este nuevo paradigma de diseño y desarrollo Web."
   subtype: presentation
-  speakers: [26]
+  speakers: [26,27]
   language: es
   complexity: "Intermediate"

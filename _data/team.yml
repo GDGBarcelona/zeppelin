@@ -21,20 +21,20 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group Barcelona"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+Rubén"}
+    - {name: "google-plus", link: "https://google.com/+RubénSerrano"}
 -
   id: 2
   name: "Joan"
   surname: "Fuentes"
   title: "GDG Barcelona Organizer"
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: JoanFuentes.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group Barcelona"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/112688043472470318916"}
-
-- 
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+JoanFuentesHernández"}
+  - {name: "twitter", link: "https://twitter.com/nescafemix"}
+-
   id: 4
   name: "TomasGiS"
   surname: ""

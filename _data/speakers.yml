@@ -5,7 +5,7 @@
   company: "Twitter"
   title: ""
   bio: "Israel is an Android engineer working at Twitter. Passionate about Android, object oriented design principles, testing and agile methodologies. Ex @lookout and @feverup. Android developer since 2009. Israel is the cofounder of Barcelona GDG and is also cofounder of @bubiloop and @androides."
-  thumbnailUrl: https://lh5.googleusercontent.com/-dH3ht_G9mPU/UT4uO-9bgoI/AAAAAAAATao/mX1vbHt2WVo/s505-no/540989_10151352644207852_1531792575_n.jpg
+  thumbnailUrl: IsraelFerrer.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+IsraelFerrerCamacho"}
@@ -16,10 +16,10 @@
   company: "SoundCloud"
   title: ""
   bio: "Fernando is a software engineer currently working @SoundCloud. He has worked at @Tuenti as well and has organized the GDG Barcelona. He's passionate about software engineering and android, Ruby engineer beginner, speaker, geek and a curious learner. Huge fan of agile methodologies, programming and technology in general."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: FernandoCejas.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+FernandoCejas"}
 
 - 
   id: 5
@@ -28,10 +28,10 @@
   company: "Novoda"
   title: "Google Developer Expert"
   bio: "David is a passionate Android craftsman at Novoda, working with the platform since 2010 he's actively involved in the Berlin and London Android community. He enjoys public speaking and is always sharing his experiences via conferences, blog posts or open source libraries. When not coding, you'll find him running through Regent's canal in London, cycling to Windsor or cooking at home with his lovely wife."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: DavidGonzalez.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/+davidgonzalezmalmstein"}
 -
   id: 6
   name: "Rubén"
@@ -42,7 +42,7 @@
   thumbnailUrl: ruben.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/+RubénSerrano"}
 -
   id: 7
   name: "José Manuel"
@@ -50,10 +50,10 @@
   company: "Redbooth"
   title: ""
   bio: "Con más de 6 años en el mundo del software, ahora enfoca sus esfuerzos como Senior Android Developer en el equipo de Redbooth, y como miembro del Core Team en el GDG Barcelona."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: JoseManuelPereira.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/+JoséMPereira"}
 -
   id: 8
   name: "Jorge"
@@ -61,10 +61,10 @@
   company: "Karumi"
   title: "Android Expert"
   bio: "Jorge Barroso (@flipper83) es Android expert en Karumi, Trabajó en Tuenti entre 2009 a 2013 siendo en su última etapa tech lead del equipo de android. Antes de Tuenti trabajó en varias empresas desarrollando juegos para dispositivos móviles y juegos multiplayer."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: JorgeBarroso.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/+JorgeJBarroso"}
 -
   id: 9
   name: "Pedro"
@@ -72,10 +72,10 @@
   company: "Tuenti"
   title: ""
   bio: "Android developer muy interesado por las nuevas tecnologías, clean code y testing. Actualmente formo parte del equipo de ingeniería de Tuenti como Senior Android Engineer, concretamente en el equipo Mobile Core. Intento mejorar cada día como ingeniero trabajando con nuevos frameworks, librerías, colaborando con la comunidad open source o aprendiendo nuevos lenguajes. El objetivo, escribir la mejor aplicación posible."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: PedroVicente.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/113580734717729548552"}
 
 -
   id: 20
@@ -83,11 +83,11 @@
   surname: "Ibáñez"
   company: ""
   title: ""
-  bio: "Andreu Ibàñez: Andreu es Project Manager en Ponent 2002, un pyme tecnológica localizada en Lleida. Con 30 años de experiencia en tecnología, siempre ha estado involucrado en este sector IT y disfruta innovando constantemente. Actualmente se dedica la creación de nuevas tecnologías para áreas tan dispares como la Arqueología, clústers de visualización, láseres y drones. Es especialista en el ecosistema de Google, donde es Glass Explorer con la startup ScalarDrone, mentor del Google Summer of Code con los proyectos Liquid Galaxy y CC Extractor, tiene montado una laboratorio único en el mundo para hacer proyectos con las diversas tecnologías de mapas de Google, el Liquid Galaxy LAB, y es además fundador y organizador del Google Developers Group GDG Lleida."
+  bio: "Andreu es Project Manager en Ponent 2002, un pyme tecnológica localizada en Lleida. Con 30 años de experiencia en tecnología, siempre ha estado involucrado en este sector IT y disfruta innovando constantemente. Actualmente se dedica la creación de nuevas tecnologías para áreas tan dispares como la Arqueología, clústers de visualización, láseres y drones. Es especialista en el ecosistema de Google, donde es Glass Explorer con la startup ScalarDrone, mentor del Google Summer of Code con los proyectos Liquid Galaxy y CC Extractor, tiene montado una laboratorio único en el mundo para hacer proyectos con las diversas tecnologías de mapas de Google, el Liquid Galaxy LAB, y es además fundador y organizador del Google Developers Group GDG Lleida."
   thumbnailUrl: andreu.png
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/+AndreuIbáñez"}
 -
   id: 21
   name: "Joan"
@@ -95,62 +95,75 @@
   company: "Redbooth"
   title: "Mobile Software Engineer"
   bio: "Joan es Android developer y organizador del Google Developer Group de Barcelona. Entusiasta de las tecnologías móviles e ingeniero informático, ha trabajado en los sectores de banca (Citi) y educación(UAB), por lo que conoce el infierno en vida. Actualmente es Mobile software engineer en Redbooth (anteriormente Teambox)."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: JoanFuentes.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/112688043472470318916"}
+  - {name: "google-plus", link: "https://plus.google.com/+JoanFuentesHernández"}
+  - {name: "twitter", link: "https://twitter.com/nescafemix"}
 -
   id: 22
   name: "Nacho"
-  surname: ""
+  surname: "Cougil"
   company: ""
   title: ""
   bio: "Nacho ha estado re-aprendiendo Java y JavaScript durante los últimos 15 años para ayudar a construir aplicaciones a grandes corporaciones, startups, y hippies del open-source. Desde Diciembre de 2014 es Google Developer Expert para Cloud Platform. Dice que elige ser calvo para refrescar la CPU."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: NachoCougil.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/+NachoCougilJares"}
 -
   id: 23
-  name: "Andrés Leonardo Martínez"
-  surname: ""
+  name: "Andrés Leonardo"
+  surname: "Martínez"
   company: "Google"
-  title: ""
+  title: "Developer Relations Program Manager"
   bio: "Andrés es Developer Relations Program Manager para Google en España. Con una amplia experiencia en I+D e ingeniería del software, gran parte de su carrera profesional se ha centrado en la planificación e implementación de proyectos de innovación relacionados con los paradigmas de OpenSource, trabajando anteriormente para empresas como Telefónica."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: AndresLeonardoMartinez.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/104070495650441591893"}
 -
   id: 24
   name: "Mario"
-  surname: ""
+  surname: "Ezquerro"
   company: ""
   title: ""
-  bio: "Mario lleva trabajando montando ampliando y planificando Datacenter para empresas usando sistemas con virtualización desde más de 10 años, está certificado en varios niveles de VCP de VMWARE, EMC lo que no deja de ser compatible con los demás sistemas XEN, Citrix, Hyperv. Básicamente trabaja y mantiene a diario todo tipo de sistemas, con GNULinux o Windows, ( y no se que hace con un Mac)."
-  thumbnailUrl: unkown_boy.png
+  bio: "Mario lleva trabajando montando ampliando y planificando Datacenter para empresas usando sistemas con virtualización desde más de 10 años, está certificado en varios niveles de VCP de VMWARE, EMC lo que no deja de ser compatible con los demás sistemas XEN, Citrix, Hyperv. Básicamente trabaja y mantiene a diario todo tipo de sistemas, con GNULinux o Windows, ( y no se que hace con un Mac).<br><br>Con una amplia experiencia sistemas y comunicaciones, en mi trabajo diario monto Datacenters completos, soluciones desde la red, electricidad, refrigeración, extinción y como no, ordenadores y cabinas de discos, ya sean soluciones basadas en sistemas BLADE o de  CISCO UCS o simples Servers. Sobre todo le encantan las soluciones si estas  son viables con OpenSource.<br><br>Actualmente trabaja en Knet Comunicaciones como  Administrador de sistemas yes miembro activo del GDG La Rioja, promoviendo todo tipo de charlas y eventos sobre código abierto.<br><br>También pelea a diario con el Cloud ya sea de Google, Amazon, Azure u otras subespecies como Fiware (por poner un ejemplo), seguro que le encontrareis  mirando alguna tecnología que permita crear o usar scripts para un objetivo máximo, ser mas eficiente  en el día a día  o mas vago, depende de como se mire."
+  thumbnailUrl: MarioEzquerro.png
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/+MarioEzquerro"}
+  - {name: "twitter", link: "https://twitter.com/Mario_Ezquerro"}
 -
   id: 25
   name: "Alberto"
-  surname: ""
-  company: ""
+  surname: "Gutiérrez"
+  company: "BEEVA"
   title: ""
   bio: "Administrador Cloudera en el departamento de BigData en BEEVA (BBVA), Alberto es Ingeniero Técnico en Sistemas, Ing.Informático y tiene un Máster en Desarrollo Software, apasionado de los startup weekends y de las nuevas tecnologías. Es organizador del GDGGranada."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: AlbertoGutierrez.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/+AlbertoGutierrezJuanes"}
 -
   id: 26
   name: "Ismael"
-  surname: ""
+  surname: "Faro"
   company: ""
   title: ""
   bio: "Ismael: Asesor y mentor tecnológico. Con más de 15 años de recorrido en el campo del emprendimiento y asistiendo a startups a llevar sus ideas a mercado. A trabajado y colaborado en proyectos open source, empresariales como gubernamentales, dentro del marco de la innovación tecnológica."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: IsmaelFaro.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/"}
+  - {name: "google-plus", link: "https://plus.google.com/+ismaelfaro"}
+-
+  id: 27
+  name: "Javier"
+  surname: "Vélez"
+  company: ""
+  title: ""
+  bio: "Javier: Doctor en informática por la UNED desde el 2009, Javier es investigador y está especializado en el diseño y análisis de la colaboración. Realiza actividades de training y consultoría para empresas y es ávido seguidor de innovaciones en TIC."
+  thumbnailUrl: JavierVelez.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/109063347520737307588"}
