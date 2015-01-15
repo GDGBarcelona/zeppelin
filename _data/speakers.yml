@@ -102,14 +102,14 @@
 -
   id: 22
   name: "Nacho"
-  surname: "Cougil"
+  surname: "Coloma"
   company: ""
-  title: ""
+  title: "Google Developer Expert"
   bio: "Nacho ha estado re-aprendiendo Java y JavaScript durante los últimos 15 años para ayudar a construir aplicaciones a grandes corporaciones, startups, y hippies del open-source. Desde Diciembre de 2014 es Google Developer Expert para Cloud Platform. Dice que elige ser calvo para refrescar la CPU."
-  thumbnailUrl: NachoCougil.jpg
+  thumbnailUrl: NachoColoma.jpg
   rockstar: true
   social:
-  - {name: "google-plus", link: "https://plus.google.com/+NachoCougilJares"}
+  - {name: "google-plus", link: "https://plus.google.com/+NachoColoma"}
 -
   id: 23
   name: "Andrés Leonardo"
