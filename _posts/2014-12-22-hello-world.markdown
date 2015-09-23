@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Hello DevFest Barcelona!"
-date:   2014-12-22 18:00:00
+title:  "¡Web del GDG DevFest Barcelona 2015!"
+date:   2015-09-23 19:00:00
 isStaticPost: false
 ---
 
-Publicació de la web GDG DevFest Barcelona. Mentres part de l'equip està ultimant detalls amb els ponents, la resta de l'equip està publicant les novetats ;)
+La web se encuentra en construcción mientras se acaban de ultimar los ultimos detalles del evento.
+
+The website is under construction while we just finalizing the last details of the event.
