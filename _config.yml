@@ -14,7 +14,7 @@ title: "GDG DevFest Season 2015"
 email: "gdgbarcelona@gmail.com "
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://http://devfest.gdgbarcelona.com/"
+url: "http://devfest.gdgbarcelona.com/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-57928606-1"
 googleAnalyticsSiteUrl: "http://devfest.gdgbarcelona.com/"
@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "January, 2015"
+eventDate: "October, 2015"
 typeoutTextValues: '"", "Season", "Barcelona", "Catalonia", "ESP"'
 typeoutFallback: "Season"
 heroButtons:
