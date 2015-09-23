@@ -14,10 +14,10 @@ title: "GDG DevFest Season 2015"
 email: "gdgbarcelona@gmail.com "
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://http://bcn.gdgdevfest.com/"
+url: "http://http://devfest.gdgbarcelona.com/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-57928606-1"
-googleAnalyticsSiteUrl: "http://bcn.gdgdevfest.com/"
+googleAnalyticsSiteUrl: "http://devfest.gdgbarcelona.com/"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -72,10 +72,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "900", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "9", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "6", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -88,19 +88,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Campus Nord, UPC. Carrer de Jordi Girona,1"
-eventLocationLink: "http://www.upc.cat"
+eventLocationName: "Escola d'Enginyeria. Carrer de les Sitges, s/n"
+eventLocationLink: "http://www.uab.cat/enginyeria/"
 eventStreetAddress: "Track Android (Vertex - Plaza Eusebio Güell) \n and Track Technologies++ (Building B6)"
-eventAddressLocality: "Barcelona"
+eventAddressLocality: "Cerdañola del Vallés"
 eventAddressLocalityRegion: "Barcelona"
-eventPostalCode: "08034"
+eventPostalCode: "08193"
 eventAddressCountry: "Spain"
-eventStartTime: "2015-01-16T8:30"
+eventStartTime: "2015-10-02T8:30"
 eventDoorTime: "09:00"
-eventEndTime: "2015-01-16T19:00"
-eventPlaceCoordinates: "41.389028,2.112551"
-mapCenterCoordinates: "41.389028,2.112551"
-mapMobileCenterCoordinates: "41.389028,2.112551"
+eventEndTime: "2015-10-02T19:00"
+eventPlaceCoordinates: "41.5006138,2.1132946"
+mapCenterCoordinates: "41.5006138,2.1132946"
+mapMobileCenterCoordinates: "41.5006138,2.1132946"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -108,13 +108,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Campus Nord"
-venueFeatures: ["Universitat Politècnica de Catalunya"]
+venueTitle: "Escola d'Enginyeria"
+venueFeatures: ["Universitat Autònoma de Barcelona"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "GDG Devfest Barcelona"
+twitterHashTag: "DevFestUAB"
 twitterFeed: ""
 
 # Partners Block
@@ -133,16 +133,16 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
+  name: "Regular"
   price: "Free"
   priceCurrency: "Euros"
-  ticketsNumber: "900"
+  ticketsNumber: "500"
   ribbon: "Free"
-  buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-barcelona-2015-14961794129"
+  buyButtonLink: "http://www.meetup.com/es/GDG-Barcelona/events/225518104/"
   buyButtonText: "Buy Now"
   ticketContentList: ["General Ticket"]
-  validFrom: "2014-12-15T10:00"
-  validThrough: "2015-01-16T23:59"
+  validFrom: "2015-09-02T10:00"
+  validThrough: "2015-10-02T23:59"
 
 # Footer
 socialLinks:
@@ -184,8 +184,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "41.389028,2.112551"
-logisticsMapMobileCenterCoordinates: "41.389028,2.112551"
+logisticsMapCenterCoordinates: "41.5006138,2.1132946"
+logisticsMapMobileCenterCoordinates: "41.5006138,2.1132946"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
