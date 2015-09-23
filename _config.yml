@@ -105,9 +105,9 @@ mapMobileCenterCoordinates: "41.389028,2.112551"
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
+venueSmallImage1: "venue_3.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueSmallImage3: "venue_1.jpg"
 venueTitle: "Campus Nord"
 venueFeatures: ["Universitat Politècnica de Catalunya"]
 
