@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
 
 bottomNavigationLinks:
- - {link: "", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
- - {link: "", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,6 @@ eventDate: "October, 2015"
 typeoutTextValues: '"", "Season", "Barcelona", "Catalonia", "ESP"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
