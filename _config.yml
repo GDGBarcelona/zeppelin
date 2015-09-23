@@ -105,8 +105,8 @@ mapMobileCenterCoordinates: "41.5006138,2.1132946"
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueSmallImage2: "venue_3.jpg"
+venueSmallImage3: "venue_2.jpg"
 venueTitle: "Escola d'Enginyeria"
 venueFeatures: ["Universitat Autònoma de Barcelona"]
 
