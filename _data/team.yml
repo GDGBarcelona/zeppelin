@@ -35,6 +35,18 @@
   - {name: "google-plus", link: "https://plus.google.com/+JoanFuentesHernández"}
   - {name: "twitter", link: "https://twitter.com/nescafemix"}
 -
+  id: 3
+  name: "Javier"
+  surname: "Martin"
+  title: "GDG Barcelona Organizer"
+  thumbnailUrl: javierMartin.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Barcelona"}
+  social: 
+  - {name: "google-plus", link: "https://plus.google.com/+JavierMartinBarbanero"}
+  - {name: "twitter", link: "https://twitter.com/BarbaneroJavier"}
+-
   id: 4
   name: "TomasGiS"
   surname: ""
