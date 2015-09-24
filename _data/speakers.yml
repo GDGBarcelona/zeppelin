@@ -135,6 +135,19 @@
   - {name: "google-plus", link: "https://plus.google.com/+SferaDev"}
   - {name: "github", link: "https://github.com/SferaDev"}
 -
+  id: 33
+  name: "Luis"
+  surname: "González"
+  company: "Bizzby"
+  title: ""
+  bio: "Trabajo como Android Developer en BIZZBY, una startup de servicios bajo demanda en Londres. Soy un firme creyente en las cosas simples y bien hechas. Lo cual me gusta aplicar tanto al código como al diseño de interfaces. Me apasiona leer, charlar y escribir sobre Android. Antes de venir a Londres trabajé en Madrid en Intelygenz y el grupo Prisa como Team Leader Android, tocando todo lo que tenía que ver con Android y movilidad. Y antes de eso pasé por Berlin y Sevilla. Llevo desde 2010 haciendo aplicaciones móviles y creo que esto no ha hecho más que empezar."
+  thumbnailUrl: luisGValle.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+LuisGonzálezValle"}
+  - {name: "twitter", link: "https://twitter.com/lgvalle"}
+  - {name: "github", link: "https://github.com/lgvalle"}
+-
   id: 99
   name: "Mariano"
   surname: "Rajoy"
