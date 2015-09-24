@@ -101,7 +101,7 @@
   id: 8
   title: "Beacons"
   description: "?"
-  subtype: workshop
+  subtype: presentation
   speakers: [99]
   language: es
   complexity: "Intermediate"
@@ -173,7 +173,7 @@ complexity: "Intermediate"
 id: 17
 title: "Arduino"
 description: "?"
-subtype: workshop
+subtype: presentation
 speakers: [99]
 language: es
 complexity: "Intermediate"
