@@ -94,7 +94,7 @@
   title: "Beacons"
   description: "?"
   subtype: presentation
-  speakers: [99]
+  speakers: [29]
   language: es
   complexity: "Basic"
 -
@@ -190,6 +190,6 @@
   title: "Fire MySQL with firebase"
   description: "?"
   subtype: presentation
-  speakers: [99]
+  speakers: [29]
   language: es
   complexity: "Intermediate"
