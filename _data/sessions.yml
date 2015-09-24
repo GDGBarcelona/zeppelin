@@ -98,14 +98,6 @@
   language: es
   complexity: "Intermediate"
 -
-  id: 8
-  title: "Beacons"
-  description: "?"
-  subtype: presentation
-  speakers: [99]
-  language: es
-  complexity: "Intermediate"
--
   id: 9
   title: "Animaciones"
   description: "?"
