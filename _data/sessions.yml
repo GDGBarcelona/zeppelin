@@ -73,3 +73,43 @@
   speakers: [28]
   language: es
   complexity: "Intermediate"
+-
+  id: 6
+  title: "Welcome Dart"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 7
+  title: "Scrapping"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 8
+  title: "Beacons"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 9
+  title: "Animaciones"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 10
+  title: "Hardware"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
