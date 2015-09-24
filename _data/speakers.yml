@@ -43,18 +43,6 @@
   social:
   - {name: "google-plus", link: "https://plus.google.com/+AndreuIbáñez"}
 -
-  id: 21
-  name: "Joan"
-  surname: "Fuentes"
-  company: "Redbooth"
-  title: "Mobile Software Engineer"
-  bio: "Joan es Android developer y organizador del Google Developer Group de Barcelona. Entusiasta de las tecnologías móviles e ingeniero informático, ha trabajado en los sectores de banca (Citi) y educación(UAB), por lo que conoce el infierno en vida. Actualmente es Mobile software engineer en Redbooth (anteriormente Teambox)."
-  thumbnailUrl: JoanFuentes.jpg
-  rockstar: true
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/+JoanFuentesHernández"}
-  - {name: "twitter", link: "https://twitter.com/nescafemix"}
--
   id: 22
   name: "Nacho"
   surname: "Coloma"
