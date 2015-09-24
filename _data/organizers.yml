@@ -7,3 +7,15 @@
   elements: 
     - {name: "GDG Tarragona", description: "GDG Tarragona", link: "http://www.gdgtarragona.net", imageUrl: "tarragona-organizer-logo.svg"}
     - {name: "GDG Lleida", description: "GDG Lleida", link: "http://gdglleida.com", imageUrl: "gdg-lleida-logo.png"}
+    - {name: "Consell d'Estudiants", description: "Consell d'Estudiants", link: "https://eeestudiants.wordpress.com", imageUrl: "consell_estudiants.jpg"}
+    - {name: "Escola d'Enginyeria", description: "Escola d'Enginyeria", link: "https://www.uab.cat/enginyeria", imageUrl: "escola_enginyeria.jpg"}
+    - {name: "Tecno UAB", description: "Asociación de la Escuela de Ingeniería de la Universidad Autónoma de Barcelona la cual desarrolla proyectos con el fin de fomentar el aprendizaje de las nuevas tecnologias", link: "https://tecnouabenginyeria.wordpress.com", imageUrl: "TecnoUAB.png"}
+    - {name: "UAB", description: "UAB", link: "http://www.uab.cat", imageUrl: "uab.png"}
+- 
+  group: "Contributors"
+  elements: 
+    - {name: "Dinamització Comunitària UAB", description: "Dinamització Comunitària UAB", link: "https://www.facebook.com/comunitatuab", imageUrl: "dinamitzaciocounitariauab.png"}
+    - {name: "Club d'Emprenedors UAB", description: "Club d'Emprenedors UAB", link: "https://www.facebook.com/clubemprenedors.enginyeria", imageUrl: "club_emprenedors_uab.png"}
+    - {name: "Otaku UAB", description: "Associació d'estudiants l'objectiu de la qual és difondre el manga (còmic japonès) i l'anime (animació japonesa) com a fet cultural nipó i com a un dels seus trets més internacionals", link: "http://otakuab.com", imageUrl: "OtakuUAB.png"}
+    - {name: "CRUAB", description: "Entitat que té com a objectiu donar a conèixer l'oci alternatiu: jocs de rol, jocs de taula, projeccions de cinema friqui, entrenaments de 'softcombat' i cartes col·leccionables", link: "http://www.clubderol-uab.tk", imageUrl: "cruab.jpg"}
+    - {name: "HvsZ", description: "Col·lectiu que té com a objectiu organitzar 'Humans vs Zombies', un joc de simulació a temps real originari dels EUA i dut a terme a tot el món", link: "https://ca-es.facebook.com/HvzUab", imageUrl: "hvzlogo.png"}
