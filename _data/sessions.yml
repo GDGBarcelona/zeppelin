@@ -123,10 +123,10 @@
   complexity: "Basic"
 -
   id: 12
-  title: "?"
-  description: "?"
+  title: "Monta una API REST en 35 min con MEAN, y si no..."
+  description: "Como todos sabéis, java script está de moda y no dejan de aparecer frameworks y tecnologías que se encargan del stack de la web. La suma de cuatro de estos frameworks tecnología a dado como resultado el stack MEAN compuesto por las tecnologías para el backend Node, Express y Mongo y para el frontend Angular. Pues bien, hoy vamos a ver lo fácil y rápido que es montar una API REST con este stack. Prometo que en un máximo de 35 minutos tendremos una API REST montada que podremos consumir y mostrar con Angular. Si no consigo hacerlo en los 35 min... venga va,regalaré mi Xiaomi MI Band."
   subtype: presentation
-  speakers: [99]
+  speakers: [30]
   language: es
   complexity: "Basic"
 -
