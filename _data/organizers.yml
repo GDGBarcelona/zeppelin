@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Barcelona", description: "GDG Barcelona", link: "http://gdgbarcelona.blogspot.com.es/", imageUrl: "gdg-bcn-logo.png"}
+    - {name: "GDG Barcelona", description: "GDG Barcelona", link: "http://gdgbarcelona.blogspot.com.es/", imageUrl: "gdg_bcn_logo-square.png"}
 - 
   group: "Co-organizers"
   elements: 
