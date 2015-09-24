@@ -100,23 +100,7 @@
 -
   id: 9
   title: "Material Animations: show me the code!"
-description: "Las animaciones en Material Design son muy bonitas, pero ¿cómo demonios se programan?
-Animaciones y transiciones son parte central de este lenguaje de diseño. Hay cientos de ejemplos ahí fuera con maravillosas animaciones que permiten al usuario mantener el contexto de lo que sucede en su aplicación.
-Diseñarlas en Illustrator es fácil. Programarlas no tanto.
-
-En esta charla explico con ejemplos de código:
-- Cómo funciona el android.Transition Framework.
-- Cómo crear transiciones entre activities.
-- Cómo se anima un elemento compartido entre dos activities.
-- Cómo se animan elementos dentro de una activity y qué opciones tenemos para hacerlo a día de hoy.
-- Cuáles son los problemas comunes y cómo resolverlos.
-
-El desarrollo general de la misma consiste en:
-- Mostrar una animación finalizada.
-- Explicar paso a paso cómo programarla.
-- Explicar qué problemas podemos encontrarnos en el camino.
-
-Tecnología: Android"
+description: "Las animaciones en Material Design son muy bonitas, pero ¿cómo demonios se programan? \nAnimaciones y transiciones son parte central de este lenguaje de diseño. Hay cientos de ejemplos ahí fuera con maravillosas animaciones que permiten al usuario mantener el contexto de lo que sucede en su aplicación. \n\nDiseñarlas en Illustrator es fácil. Programarlas no tanto. \n\nEn esta charla explico con ejemplos de código:\n- Cómo funciona el android.Transition Framework.\n- Cómo crear transiciones entre activities.\n- Cómo se anima un elemento compartido entre dos activities.\n- Cómo se animan elementos dentro de una activity y qué opciones tenemos para hacerlo a día de hoy.\n- Cuáles son los problemas comunes y cómo resolverlos.\n\nEl desarrollo general de la misma consiste en:\n- Mostrar una animación finalizada.\n- Explicar paso a paso cómo programarla.\n- Explicar qué problemas podemos encontrarnos en el camino."
   subtype: presentation
   speakers: [99]
   language: es
