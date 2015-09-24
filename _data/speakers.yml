@@ -123,6 +123,18 @@
   - {name: "google-plus", link: "https://plus.google.com/+OscarCaballeroPozas96"}
   - {name: "twitter", link: "https://twitter.com/Oscar_Pozas"}
 -
+  id: 32
+  name: "Alexis"
+  surname: "Rico"
+  company: ""
+  title: "SferaDev"
+  bio: "Alexis Rico, también conocido por SferaDev, es un desarrollador freelance Android. Actualmente estudia un grado de Ingeniería Informática en la UPC y dedica sus tiempos libres en proyectos opensource como Paranoid Android donde coordina el equipo legacy además de participar en el desarrollo del equipo principal. Además del ecosistema Android, le apasiona todo lo relacionado con Star Wars y recientemente tiene un gran interés en los anime Japoneses."
+  thumbnailUrl: sferadev.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+SferaDev"}
+  - {name: "github", link: "https://github.com/SferaDev"}
+-
   id: 99
   name: "Mariano"
   surname: "Rajoy"
