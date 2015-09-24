@@ -148,6 +148,19 @@
   - {name: "twitter", link: "https://twitter.com/lgvalle"}
   - {name: "github", link: "https://github.com/lgvalle"}
 -
+  id: 34
+  name: "Francisco M."
+  surname: "Sirvent "
+  company: "Redbooth"
+  title: "Android developer"
+  bio: "Desarrollador Android en Redbooth.  O que quieres? En la que me estoy metiendo. Sigo tomando cereales."
+  thumbnailUrl: franMSirvent.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+NarfSirvent"}
+  - {name: "twitter", link: "https://twitter.com/narfss"}
+  - {name: "github", link: "https://github.com/Narfss"}
+-
   id: 99
   name: "Mariano"
   surname: "Rajoy"
