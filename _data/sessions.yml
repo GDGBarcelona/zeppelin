@@ -41,3 +41,35 @@
   speakers: [5]
   language: es
   complexity: "Intermediate"
+-
+  id: 2
+  title: "Lead[X] Developer"
+  description: "?"
+  subtype: presentation
+  speakers: [6]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 3
+  title: "Herramientas"
+  description: "?"
+  subtype: presentation
+  speakers: [22]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 4
+  title: "Arquitectura"
+  description: "?"
+  subtype: presentation
+  speakers: [7]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 5
+  title: "Tech&Ladies"
+  description: "?"
+  subtype: presentation
+  speakers: [28]
+  language: es
+  complexity: "Intermediate"
