@@ -9,102 +9,102 @@
   place: "?"
   service: true
 -
-  id: 998
-  title: "Final GDG Garage y sorteo"
-  place: "?"
-  service: true
+id: 998
+title: "Final GDG Garage y sorteo"
+place: "?"
+service: true
 -
-  id: 997
-  title: "Networking & Birras"
-  place: "?"
-  service: true
+id: 997
+title: "Networking & Birras"
+place: "?"
+service: true
 -
-  id: 996
-  title: "Actividad lúdica de ciere de la jornada"
-  place: "?"
-  service: true
+id: 996
+title: "Actividad lúdica de ciere de la jornada"
+place: "?"
+service: true
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
+id: 307
+title: "Coffee Break"
+place: "Hall"
+service: true
 -
-  id: 503
-  title: "Free Lunch Break"
-  place: "?"
-  service: true
+id: 503
+title: "Free Lunch Break"
+place: "?"
+service: true
 -
-  id: 1
-  title: "?"
-  description: "?"
-  subtype: presentation
-  speakers: [5]
-  language: es
-  complexity: "Intermediate"
+id: 1
+title: "?"
+description: "?"
+subtype: presentation
+speakers: [5]
+language: es
+complexity: "Intermediate"
 -
-  id: 2
-  title: "Lead[X] Developer"
-  description: "?"
-  subtype: presentation
-  speakers: [6]
-  language: es
-  complexity: "Intermediate"
+id: 2
+title: "Lead[X] Developer"
+description: "?"
+subtype: presentation
+speakers: [6]
+language: es
+complexity: "Intermediate"
 -
-  id: 3
-  title: "Herramientas"
-  description: "?"
-  subtype: presentation
-  speakers: [22]
-  language: es
-  complexity: "Intermediate"
+id: 3
+title: "Herramientas"
+description: "?"
+subtype: presentation
+speakers: [22]
+language: es
+complexity: "Intermediate"
 -
-  id: 4
-  title: "Arquitectura"
-  description: "?"
-  subtype: presentation
-  speakers: [7]
-  language: es
-  complexity: "Intermediate"
+id: 4
+title: "Arquitectura"
+description: "?"
+subtype: presentation
+speakers: [7]
+language: es
+complexity: "Intermediate"
 -
-  id: 5
-  title: "Tech&Ladies"
-  description: "?"
-  subtype: presentation
-  speakers: [28]
-  language: es
-  complexity: "Intermediate"
+id: 5
+title: "Tech&Ladies"
+description: "?"
+subtype: presentation
+speakers: [28]
+language: es
+complexity: "Intermediate"
 -
-  id: 6
-  title: "Welcome Dart"
-  description: "?"
-  subtype: presentation
-  speakers: [99]
-  language: es
-  complexity: "Intermediate"
+id: 6
+title: "Welcome Dart"
+description: "?"
+subtype: presentation
+speakers: [99]
+language: es
+complexity: "Intermediate"
 -
-  id: 7
-  title: "Scrapping"
-  description: "?"
-  subtype: presentation
-  speakers: [99]
-  language: es
-  complexity: "Intermediate"
+id: 7
+title: "Scrapping"
+description: "?"
+subtype: presentation
+speakers: [99]
+language: es
+complexity: "Intermediate"
 -
-  id: 8
-  title: "Beacons"
-  description: "?"
-  subtype: presentation
-  speakers: [99]
-  language: es
-  complexity: "Intermediate"
+id: 8
+title: "Beacons"
+description: "?"
+subtype: presentation
+speakers: [99]
+language: es
+complexity: "Intermediate"
 -
-  id: 9
-  title: "Animaciones"
-  description: "?"
-  subtype: presentation
-  speakers: [99]
-  language: es
-  complexity: "Intermediate"
+id: 9
+title: "Animaciones"
+description: "?"
+subtype: presentation
+speakers: [99]
+language: es
+complexity: "Intermediate"
 -
 id: 10
 title: "Hardware"
