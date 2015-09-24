@@ -158,7 +158,7 @@
   title: "Custom ROMs, an open alternative to Android"
   description: "Las custom ROMs nos ofrecen el modding de software Android en su plenitud. La charla tiene como base el funcionamiento de Android tanto para dispositivos Nexus que funcionan de forma nativa con AOSP o otros que necesitan otros upstreams. Plantea dudas sobre la seguridad de software no verificado por test rigurosos de QA así como una introducción al desarrollo de custom ROMs para los asistentes a la charla. El grado de dificultad es bajo y ofrece las dos perspectivas teórica y práctica."
   subtype: presentation
-  speakers: [99]
+  speakers: [32]
   language: es
   complexity: "Basic"
 -
