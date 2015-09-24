@@ -101,14 +101,27 @@
 -
   id: 30
   name: "Borja"
-  surname: "Godoy Gago"
+  surname: "Godoy"
   company: ""
   title: "GDG Cáceres organizer"
-  bio: " Google developer organizer en Cáceres y estudiante de la universidad de Extremadura aunque actualmente está acabando ingeniería del software en la politécnica de Madrid. Participó en el desarrollo de aplicaciones como Todotracking y TuBus Cáceres y actualmente se encuentra desarrollando una proyecto personal llamado ApruebaTest, preseleccionada en la última convocatoría de ThinkBig jovenes de telefónica y StartupsSchol de Tetuan Valley y The Bellota Valley"
+  bio: "Google developer organizer en Cáceres y estudiante de la universidad de Extremadura aunque actualmente está acabando ingeniería del software en la politécnica de Madrid. Participó en el desarrollo de aplicaciones como Todotracking y TuBus Cáceres y actualmente se encuentra desarrollando una proyecto personal llamado ApruebaTest, preseleccionada en la última convocatoría de ThinkBig jovenes de telefónica y StartupsSchol de Tetuan Valley y The Bellota Valley."
   thumbnailUrl: borjaGodoy.jpg
   rockstar: true
   social:
+  - {name: "google-plus", link: "https://plus.google.com/118421668812651988547"}
   - {name: "twitter", link: "https://twitter.com/gody11"}
+-
+  id: 31
+  name: "Oscar"
+  surname: "Caballero"
+  company: ""
+  title: "GDG Cáceres organizer"
+  bio: "Cacereño y geek de nacimiento, desarrollador Android en diferentes empresas a la par que organizer del GDG Cáceres. Amante de nuevas tecnologías y de aprender cada día. Ha participado en el desarrollo de apps para Google Glass, tecnología beacon y Android TV."
+  thumbnailUrl: oscarCaballero.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+OscarCaballeroPozas96"}
+  - {name: "twitter", link: "https://twitter.com/Oscar_Pozas"}
 -
   id: 99
   name: "Mariano"
