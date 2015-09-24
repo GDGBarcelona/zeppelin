@@ -40,7 +40,7 @@
   subtype: presentation
   speakers: [5]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 2
   title: "Lead[X] Developer"
@@ -48,15 +48,15 @@
   subtype: presentation
   speakers: [6]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 3
-  title: "Herramientas"
-  description: "?"
+  title: "Herramientas de productividad"
+  description: "Durante esta charla mostraré atajos para ser productivo con Sublime Text Editor, lo que trae mi repositorio de dotfiles para hacer la vida más fácil al desarrollador, y terminaré mostrando cómo usar fasd para moverte por los directorios a través de lo que ahora llaman 'frecency'"
   subtype: presentation
   speakers: [22]
   language: es
-  complexity: "Intermediate"
+  complexity: "Advance"
 -
   id: 4
   title: "Arquitectura"
@@ -67,12 +67,12 @@
   complexity: "Intermediate"
 -
   id: 5
-  title: "Tech&Ladies"
+  title: "Ladies & Tech & Viceversa"
   description: "?"
   subtype: presentation
   speakers: [28]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 6
   title: "Welcome Dart"
@@ -83,12 +83,12 @@
   complexity: "Basic"
 -
   id: 7
-  title: "Scrapping"
+  title: "Iniciación al scraping"
   description: "?"
   subtype: presentation
   speakers: [99]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 8
   title: "Beacons"
@@ -96,7 +96,7 @@
   subtype: presentation
   speakers: [99]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 9
   title: "Material Animations: show me the code!"
@@ -107,20 +107,20 @@
   complexity: "Advance"
 -
   id: 10
-  title: "Hardware"
+  title: "Hardware for dummys"
   description: "?"
   subtype: presentation
-  speakers: [99]
+  speakers: [24]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 11
-  title: "Api-Rest"
+  title: "Api Rest en Java"
   description: "?"
   subtype: presentation
   speakers: [28]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 12
   title: "?"
@@ -128,23 +128,23 @@
   subtype: presentation
   speakers: [99]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 13
-  title: "Material Design"
+  title: "Material design y la support desing library"
   description: "?"
   subtype: presentation
   speakers: [99]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 14
-  title: "Project Tango"
+  title: "Project Tango de Google, virtualizando la realidad"
   description: "?"
   subtype: presentation
   speakers: [20]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 15
   title: "Hadoop & BigData"
@@ -168,7 +168,7 @@
   subtype: presentation
   speakers: [99]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 18
   title: "OpenXC"
@@ -176,18 +176,18 @@
   subtype: presentation
   speakers: [99]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 19
-  title: "GSoC"
+  title: "Programa de becas de Google, el Google Summer of Code"
   description: "?"
   subtype: presentation
   speakers: [20]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 20
-  title: "Firebase"
+  title: "Fire MySQL with firebase"
   description: "?"
   subtype: presentation
   speakers: [99]

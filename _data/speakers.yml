@@ -178,6 +178,17 @@
   social:
   - {name: "google-plus", link: "https://plus.google.com/+VanessaGalcera"}
 -
+  id: 29
+  name: "Tomás"
+  surname: "González"
+  company: ""
+  title: "Profe K%#ron"
+  bio: ""
+  thumbnailUrl: TomasGiS.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+TomasGiS"}
+-
   id: 99
   name: "Mariano"
   surname: "Rajoy"
