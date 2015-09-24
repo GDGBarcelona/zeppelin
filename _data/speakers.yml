@@ -46,9 +46,9 @@
   id: 7
   name: "José Manuel"
   surname: "Pereira"
-  company: "Redbooth"
+  company: "JobAndTalent"
   title: ""
-  bio: "Con más de 6 años en el mundo del software, ahora enfoca sus esfuerzos como Senior Android Developer en el equipo de Redbooth, y como miembro del Core Team en el GDG Barcelona."
+  bio: "?"
   thumbnailUrl: JoseManuelPereira.jpg
   rockstar: true
   social:
@@ -166,3 +166,26 @@
   rockstar: true
   social:
   - {name: "google-plus", link: "https://plus.google.com/109063347520737307588"}
+-
+  id: 28
+  name: "Vanessa"
+  surname: "Galcera"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: vanessaGalcera.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+VanessaGalcera"}
+-
+  id: 0
+  name: "Mariano"
+  surname: "Rajoy"
+  company: "¿pero esto luego se va a saber?"
+  title: "Presidente"
+  bio: "Tras años de duro esfuerzo memorizando la constitución española, Mariano se ha dado cuenta de que tenia la portada intercambiada con Ladrones, Grandes estafas de la historia económica mundial. Tal disquisición que no conduce a parte alguna, así pues decidió aprender el noble arte del ninja, y desaparecer tas un plasma."
+  thumbnailUrl: unkown_boy.png
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/118357487995361062740"}
+
