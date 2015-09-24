@@ -1,26 +1,4 @@
-- 
-  id: 3
-  name: "Israel"
-  surname: "Ferrer"
-  company: "Twitter"
-  title: ""
-  bio: "Israel is an Android engineer working at Twitter. Passionate about Android, object oriented design principles, testing and agile methodologies. Ex @lookout and @feverup. Android developer since 2009. Israel is the cofounder of Barcelona GDG and is also cofounder of @bubiloop and @androides."
-  thumbnailUrl: IsraelFerrer.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+IsraelFerrerCamacho"}
-- 
-  id: 4
-  name: "Fernando"
-  surname: "Cejas"
-  company: "SoundCloud"
-  title: ""
-  bio: "Fernando is a software engineer currently working @SoundCloud. He has worked at @Tuenti as well and has organized the GDG Barcelona. He's passionate about software engineering and android, Ruby engineer beginner, speaker, geek and a curious learner. Huge fan of agile methodologies, programming and technology in general."
-  thumbnailUrl: FernandoCejas.png
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+FernandoCejas"}
-- 
+-
   id: 5
   name: "David"
   surname: "Gonzalez"
@@ -53,29 +31,6 @@
   rockstar: true
   social:
   - {name: "google-plus", link: "https://plus.google.com/+JoséMPereira"}
--
-  id: 8
-  name: "Jorge"
-  surname: "Barroso"
-  company: "Karumi"
-  title: "Android Expert"
-  bio: "Jorge Barroso (@flipper83) es Android expert en Karumi, Trabajó en Tuenti entre 2009 a 2013 siendo en su última etapa tech lead del equipo de android. Antes de Tuenti trabajó en varias empresas desarrollando juegos para dispositivos móviles y juegos multiplayer."
-  thumbnailUrl: JorgeBarroso.jpg
-  rockstar: true
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/+JorgeJBarroso"}
--
-  id: 9
-  name: "Pedro"
-  surname: "Vicente"
-  company: "Tuenti"
-  title: ""
-  bio: "Android developer muy interesado por las nuevas tecnologías, clean code y testing. Actualmente formo parte del equipo de ingeniería de Tuenti como Senior Android Engineer, concretamente en el equipo Mobile Core. Intento mejorar cada día como ingeniero trabajando con nuevos frameworks, librerías, colaborando con la comunidad open source o aprendiendo nuevos lenguajes. El objetivo, escribir la mejor aplicación posible."
-  thumbnailUrl: PedroVicente.jpg
-  rockstar: true
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/113580734717729548552"}
-
 -
   id: 20
   name: "Andreu"
@@ -111,17 +66,6 @@
   social:
   - {name: "google-plus", link: "https://plus.google.com/+NachoColoma"}
 -
-  id: 23
-  name: "Andrés Leonardo"
-  surname: "Martínez"
-  company: "Google"
-  title: "Developer Relations Program Manager"
-  bio: "Andrés es Developer Relations Program Manager para Google en España. Con una amplia experiencia en I+D e ingeniería del software, gran parte de su carrera profesional se ha centrado en la planificación e implementación de proyectos de innovación relacionados con los paradigmas de OpenSource, trabajando anteriormente para empresas como Telefónica."
-  thumbnailUrl: AndresLeonardoMartinez.jpg
-  rockstar: true
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/104070495650441591893"}
--
   id: 24
   name: "Mario"
   surname: "Ezquerro"
@@ -144,28 +88,6 @@
   rockstar: true
   social:
   - {name: "google-plus", link: "https://plus.google.com/+AlbertoGutierrezJuanes"}
--
-  id: 26
-  name: "Ismael"
-  surname: "Faro"
-  company: ""
-  title: ""
-  bio: "Ismael: Asesor y mentor tecnológico. Con más de 15 años de recorrido en el campo del emprendimiento y asistiendo a startups a llevar sus ideas a mercado. A trabajado y colaborado en proyectos open source, empresariales como gubernamentales, dentro del marco de la innovación tecnológica."
-  thumbnailUrl: IsmaelFaro.jpg
-  rockstar: true
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/+ismaelfaro"}
--
-  id: 27
-  name: "Javier"
-  surname: "Vélez"
-  company: ""
-  title: ""
-  bio: "Javier: Doctor en informática por la UNED desde el 2009, Javier es investigador y está especializado en el diseño y análisis de la colaboración. Realiza actividades de training y consultoría para empresas y es ávido seguidor de innovaciones en TIC."
-  thumbnailUrl: JavierVelez.jpg
-  rockstar: true
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/109063347520737307588"}
 -
   id: 28
   name: "Vanessa"
