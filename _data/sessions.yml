@@ -59,8 +59,8 @@
   complexity: "Advance"
 -
   id: 4
-  title: "Arquitectura"
-  description: "?"
+  title: "Limpiando espero la arquitectura que yo quiero"
+  description: "Paso a paso explico como estructurar nuestros proyectos para ir solucionando y separando problemas para ver finalmente como la foto general de lo que hemos montado coincide con los principios de Clean Architecture y como esto nos ayuda a construir un software más solido, extensible y refactorizable."
   subtype: presentation
   speakers: [7]
   language: es
