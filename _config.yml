@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest<typeout>2015"
+heroTitle: "GDG DevFest Barcelona <typeout> 2015"
 eventDate: "October, 2015"
 typeoutTextValues: '"", "Season", "Barcelona", "Catalonia", "ESP"'
 typeoutFallback: "Season"
@@ -72,9 +72,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "9", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "12", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
