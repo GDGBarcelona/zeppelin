@@ -76,11 +76,11 @@
 -
   id: 6
   title: "Welcome Dart"
-  description: "?"
+  description: "Introducción a Dart, para que sirve, porque google lanzo este lenguaje, que se puede hacer"
   subtype: presentation
-  speakers: [99]
+  speakers: [25]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 7
   title: "Scrapping"
@@ -99,12 +99,28 @@
   complexity: "Intermediate"
 -
   id: 9
-  title: "Animaciones"
-  description: "?"
+  title: "Material Animations: show me the code!"
+description: "Las animaciones en Material Design son muy bonitas, pero ¿cómo demonios se programan?
+Animaciones y transiciones son parte central de este lenguaje de diseño. Hay cientos de ejemplos ahí fuera con maravillosas animaciones que permiten al usuario mantener el contexto de lo que sucede en su aplicación.
+Diseñarlas en Illustrator es fácil. Programarlas no tanto.
+
+En esta charla explico con ejemplos de código:
+- Cómo funciona el android.Transition Framework.
+- Cómo crear transiciones entre activities.
+- Cómo se anima un elemento compartido entre dos activities.
+- Cómo se animan elementos dentro de una activity y qué opciones tenemos para hacerlo a día de hoy.
+- Cuáles son los problemas comunes y cómo resolverlos.
+
+El desarrollo general de la misma consiste en:
+- Mostrar una animación finalizada.
+- Explicar paso a paso cómo programarla.
+- Explicar qué problemas podemos encontrarnos en el camino.
+
+Tecnología: Android"
   subtype: presentation
   speakers: [99]
   language: es
-  complexity: "Intermediate"
+  complexity: "Advance"
 -
   id: 10
   title: "Hardware"
@@ -147,20 +163,20 @@
   complexity: "Intermediate"
 -
   id: 15
-  title: "Hadoop"
-  description: "?"
+  title: "Hadoop & BigData"
+  description: "Es una charla de como funciona Hadoop en el mundo BigData, pasaremos por una explicación de los papers que proporciono google sobre dfs y mapreduce acabando por esta herramienta libre."
   subtype: presentation
-  speakers: [99]
+  speakers: [25]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 16
-  title: "Custom Roms"
-  description: "?"
+  title: "Custom ROMs, an open alternative to Android"
+  description: "Las custom ROMs nos ofrecen el modding de software Android en su plenitud. La charla tiene como base el funcionamiento de Android tanto para dispositivos Nexus que funcionan de forma nativa con AOSP o otros que necesitan otros upstreams. Plantea dudas sobre la seguridad de software no verificado por test rigurosos de QA así como una introducción al desarrollo de custom ROMs para los asistentes a la charla. El grado de dificultad es bajo y ofrece las dos perspectivas teórica y práctica."
   subtype: presentation
   speakers: [99]
   language: es
-  complexity: "Intermediate"
+  complexity: "Basic"
 -
   id: 17
   title: "Arduino"
