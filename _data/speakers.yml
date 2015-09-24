@@ -25,8 +25,8 @@
   name: "José Manuel"
   surname: "Pereira"
   company: "JobAndTalent"
-  title: ""
-  bio: "?"
+  title: "Android Team Lead"
+  bio: "Android Tech Lead at jobandtalent, GDG Madrid Organizer and Founder of AndroCode. Formerly at Redbooth and GDG Barcelona. Beer Lover and Andalú. And Speaker!"
   thumbnailUrl: JoseManuelPereira.jpg
   rockstar: true
   social:
@@ -98,6 +98,17 @@
   rockstar: true
   social:
   - {name: "google-plus", link: "https://plus.google.com/+TomasGiS"}
+-
+  id: 30
+  name: "Borja"
+  surname: "Godoy Gago"
+  company: ""
+  title: "GDG Cáceres organizer"
+  bio: " Google developer organizer en Cáceres y estudiante de la universidad de Extremadura aunque actualmente está acabando ingeniería del software en la politécnica de Madrid. Participó en el desarrollo de aplicaciones como Todotracking y TuBus Cáceres y actualmente se encuentra desarrollando una proyecto personal llamado ApruebaTest, preseleccionada en la última convocatoría de ThinkBig jovenes de telefónica y StartupsSchol de Tetuan Valley y The Bellota Valley"
+  thumbnailUrl: borjaGodoy.jpg
+  rockstar: true
+  social:
+  - {name: "twitter", link: "https://twitter.com/gody11"}
 -
   id: 99
   name: "Mariano"
