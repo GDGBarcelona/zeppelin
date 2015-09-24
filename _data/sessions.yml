@@ -153,3 +153,43 @@
   speakers: [99]
   language: es
   complexity: "Intermediate"
+-
+  id: 16
+  title: "Custom Roms"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 17
+  title: "Arduino"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 18
+  title: "OpenXC"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 19
+  title: "GSoC"
+  description: "?"
+  subtype: presentation
+  speakers: [20]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 20
+  title: "Firebase"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
