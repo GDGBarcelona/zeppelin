@@ -113,3 +113,43 @@
   speakers: [99]
   language: es
   complexity: "Intermediate"
+-
+  id: 11
+  title: "Api-Rest"
+  description: "?"
+  subtype: presentation
+  speakers: [28]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 12
+  title: "?"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 13
+  title: "Material Design"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 14
+  title: "Project Tango"
+  description: "?"
+  subtype: presentation
+  speakers: [20]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 15
+  title: "Hadoop"
+  description: "?"
+  subtype: presentation
+  speakers: [99]
+  language: es
+  complexity: "Intermediate"
