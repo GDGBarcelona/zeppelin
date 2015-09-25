@@ -171,10 +171,10 @@
   complexity: "Basic"
 -
   id: 18
-  title: "OpenXC"
-  description: "?"
+  title: "Conectando el Coche"
+  description: "No todo es Android Auto, como puedes empezar a trabajar en IoT sin tener que gastarte una pasta en cacharros. Herramientas open Source  para conectar tu coche."
   subtype: presentation
-  speakers: [99]
+  speakers: [35]
   language: es
   complexity: "Basic"
 -
