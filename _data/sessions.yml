@@ -91,7 +91,7 @@
   complexity: "Basic"
 -
   id: 8
-  title: "Beacons"
+  title: "Ni faros, ni señales de humo, usa beacons"
   description: "?"
   subtype: presentation
   speakers: [29]
@@ -187,7 +187,7 @@
   complexity: "Basic"
 -
   id: 20
-  title: "Fire MySQL with firebase"
+  title: "Fire databases with firebase"
   description: "?"
   subtype: presentation
   speakers: [29]
