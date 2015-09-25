@@ -67,8 +67,8 @@
   complexity: "Intermediate"
 -
   id: 5
-  title: "Ladies & Tech & Viceversa"
-  description: "?"
+  title: "Ladies&Tech&Viceversa"
+  description: "Se dará a conocer la situación actual de las mujeres en las STEM (Science, Technology, Engineering, Mathematics) y las diferentes iniciativas que existen a nivel mundial y nacional que intentan dar visibilidad a las mujeres profesionales del sector para proporcionar referentes a otras mujeres. Estas iniciativas buscan conseguir mayor diversidad en el proceso de creación de productos, software y servicios."
   subtype: presentation
   speakers: [28]
   language: es
@@ -115,8 +115,8 @@
   complexity: "Basic"
 -
   id: 11
-  title: "Api Rest en Java"
-  description: "?"
+  title: "Construye tu propio backend y API REST con Java para tus apps móviles"
+  description: "Hoy en día muchas de las apps móviles que utilizamos se conectan a un servidor para obtener los datos de forma dinámica y siempre actualizados. Este servidor backend proporciona una plataforma para la gestión de los datos que alimentan tanto la aplicación móvil, como una aplicación web (frontend). En esta charla aprenderemos a montar nuestro propio backend para el modelo de negocio y la persistencia de datos con Java EE (EJB y JPA) y a crear una API REST que permita a las apps móviles que desarrollemos acceder a esos datos."
   subtype: presentation
   speakers: [28]
   language: es
