@@ -163,6 +163,18 @@
   - {name: "twitter", link: "https://twitter.com/narfss"}
   - {name: "github", link: "https://github.com/Narfss"}
 -
+  id: 35
+  name: "Javier"
+  surname: "Martin"
+  company: "WorldLine"
+  title: "SOLID Android Dev"
+  bio: "Ahora ando como Android developer en WorldLine intentando conectar cosas con el internet,  el tiempo que me queda  lo reparto entre montar cosas en el GDG Barcelona y seguir estudiando. Me sigue flipando descubrir personas locas por la tecnología y compartir con ellas unas cervezas."
+  thumbnailUrl: javierMartin.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+JavierMartinBarbanero"}
+  - {name: "twitter", link: "https://twitter.com/barbaneroJavier"}
+-
   id: 99
   name: "Mariano"
   surname: "Rajoy"
