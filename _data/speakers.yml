@@ -80,13 +80,15 @@
   id: 28
   name: "Vanessa"
   surname: "Galcera"
-  company: ""
-  title: ""
-  bio: ""
+  company: "Smart4cities"
+  title: "Cofundadora de Smart4Cities y organizadora del GDG Tarragona"
+  bio: "Vanessa tiene una Ingeniera en Informática y un Master en Seguridad por la Universitat Rovira i Virgili de Tarragona. Inició su carrera como formadora certificada de Sun Microsystems y Red Hat impartiendo cursos oficiales de Solaris, JBoss y Java EE durante 4 años. Desde 2012 realiza tareas de Lead Programmer y Software Architect en proyectos de desarrollo empresarial con Oracle ADF y tecnologías Java EE. En 2013 cofundó la startup Sm4rtCities dedicada a la consultoría, formación y desarrollo de software para plataformas móviles, smartTVs y wearables como las Google Glass y los smartwatches. Además cofundó y coorganiza el GDG Tarragona y es también un miembro activo del grupo Thinkit, responsable de los Hackathons más importantes de Tarragona. Previamente en 2011, Vanessa había cofundado TarracoDroid, la Comunidad Android de Tarragona. Desde 2014, Vanessa también está colaborando en dar visibilidad a las mujeres que trabajan en el campo de la ingeniería informática como Women Techmaker Lead en el GDG Tarragona y cofundado el grupo Tech&Ladies en España."
   thumbnailUrl: vanessaGalcera.jpg
   rockstar: true
   social:
   - {name: "google-plus", link: "https://plus.google.com/+VanessaGalcera"}
+  - {name: "twitter", link: "https://twitter.com/vanessagare"}
+  - {name: "linkedin", link: "https://es.linkedin.com/pub/vanessa-galcera-reales/24/448/174"}
 -
   id: 29
   name: "Tomás"
