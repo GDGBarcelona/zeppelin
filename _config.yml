@@ -16,7 +16,7 @@ description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "http://devfest.gdgbarcelona.com/"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-57928606-1"
+googleAnalyticsTrackingId: "UA-68087035-1"
 googleAnalyticsSiteUrl: "http://devfest.gdgbarcelona.com/"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
@@ -152,7 +152,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "gdgbarcelona.blogspot.com.es", text: "GDG Barcelona"}
+   - {link: "https://gdgbarcelona.blogspot.com.es", text: "GDG Barcelona"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
