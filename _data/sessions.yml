@@ -34,14 +34,6 @@
   place: "?"
   service: true
 -
-  id: 1
-  title: "?"
-  description: "?"
-  subtype: presentation
-  speakers: [5]
-  language: es
-  complexity: "Basic"
--
   id: 2
   title: "Lead[X] Developer"
   description: "Programar o ascender, esa es la cuestión. Muchos aprendemos a programar porque nos gusta y nos queremos dedicar a ello profesionalmente. Pero pasado un tiempo, todo el mundo parece que acaba interiorizando lo de que 'al principio hay que programar, pero que en dos años estaremos mandando, que para eso nos hemos formado'. Porque eso es lo importante y la única forma de ascender en este mundillo. Mandar. ¿No? En esta charla hablaremos de 3 cosas. Como ascender sin tener que dejar de desarrollar. Como convertirnos en líderes sin que nos hayan tenido que ascender. Y cual es el misterioso componente [x] que hace que esto y otras cosas igual de maravillosas sucedan."
