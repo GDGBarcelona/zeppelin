@@ -68,4 +68,17 @@
   thumbnailUrl: andreu.png
   team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+AndreuIbáñez"}
+  - {name: "google-plus", link: "https://google.com/+AndreuIbáñez"}
+-
+  id: 8
+  name: "Albert"
+  surname: "Gil"
+  title: "President del Consell d'Estudiants de l'Escola d'Enginyeria y Vicepresidente Co-Funder Tecno UAB"
+  thumbnailUrl: albertGil.jpg
+  team: true
+  ribbon:
+  - {abbr: "UAB", title: "President del Consell d'Estudiants de l'Escola d'Enginyeria y Vicepresidente Co-Funder Tecno UAB"}
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/u/0/118249858632214940794"}
+  - {name: "twitter", link: "https://twitter.com/jddam"}
+  - {name: "linkedin", link: "https://es.linkedin.com/pub/albert-gil-lópez/96/160/448"}
