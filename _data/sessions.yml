@@ -131,8 +131,8 @@
   complexity: "Basic"
 -
   id: 13
-  title: "Material design y la support desing library"
-  description: "?"
+  title: "Lo mas cool de Android, Material Design"
+  description: "30 min para descubrir que es el concepto Material Design y como poder aplicarlo en nuestras apps de Android."
   subtype: presentation
   speakers: [31]
   language: es
