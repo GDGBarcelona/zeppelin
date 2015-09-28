@@ -193,3 +193,11 @@
   speakers: [36]
   language: es
   complexity: "Intermediate"
+-
+  id: 22
+  title: "Start-ups: Silicon Valley del siglo XIX no solo estará en California"
+  description: "Lo más importante para una start-up no es crearla sino escalarla en la correcta dirección. Silicon Valley no es solo un lugar, es una actitud."
+  subtype: presentation
+  speakers: [37,38]
+  language: es
+  complexity: "Intermediate"
