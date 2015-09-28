@@ -1,15 +1,4 @@
 -
-  id: 5
-  name: "David"
-  surname: "Gonzalez"
-  company: "Novoda"
-  title: "Google Developer Expert"
-  bio: "David is a passionate Android craftsman at Novoda, working with the platform since 2010 he's actively involved in the Berlin and London Android community. He enjoys public speaking and is always sharing his experiences via conferences, blog posts or open source libraries. When not coding, you'll find him running through Regent's canal in London, cycling to Windsor or cooking at home with his lovely wife."
-  thumbnailUrl: DavidGonzalez.jpg
-  rockstar: true
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/+davidgonzalezmalmstein"}
--
   id: 6
   name: "Rubén"
   surname: "Serrano"
