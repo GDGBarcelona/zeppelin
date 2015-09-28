@@ -176,6 +176,28 @@
   - {name: "google-plus", link: "https://plus.google.com/+TxusBallesteros"}
   - {name: "twitter", link: "https://twitter.com/txusballesteros"}
 -
+  id: 37
+  name: "Ricard"
+  surname: "Garriga"
+  company: ""
+  title: "Co-founder @M_Millennials head of start-up strategy @YouNoodle board member @GEWSpain @SFOBCN "
+  bio: "@YouNoodle board member @GEWSpain @SFOBCN"
+  thumbnailUrl: ricardGarriga.jpg
+  rockstar: true
+  social:
+  - {name: "twitter", link: "https://twitter.com/RicardGarriga"}
+-
+  id: 38
+  name: "Jordi"
+  surname: "Valls"
+  company: ""
+  title: "Lead Optimist at @M_Millennials"
+  bio: "PAST: mkt @pickdpack / Founder @1sleeve Inc. / Dreamer at @imaginecc'12 / Co-founder @startupembassy in Silicon Valley"
+  thumbnailUrl: jordiValls.jpg
+  rockstar: true
+  social:
+  - {name: "twitter", link: "https://twitter.com/vallsjordi"}
+-
   id: 99
   name: "Mariano"
   surname: "Rajoy"
