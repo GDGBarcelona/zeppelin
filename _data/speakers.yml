@@ -175,6 +175,18 @@
   - {name: "google-plus", link: "https://plus.google.com/+JavierMartinBarbanero"}
   - {name: "twitter", link: "https://twitter.com/barbaneroJavier"}
 -
+  id: 36
+  name: "Txus"
+  surname: "Ballesteros"
+  company: "Redbooth"
+  title: "Android developer"
+  bio: "Apasionado por el desarrollo de Software, Google Lover y adicto al código fuente, focalizado en el desarrollo de aplicaciones móviles nativas. Dice haber encontrado su nirvana en Android."
+  thumbnailUrl: txusBallesteros.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+TxusBallesteros"}
+  - {name: "twitter", link: "https://twitter.com/txusballesteros"}
+-
   id: 99
   name: "Mariano"
   surname: "Rajoy"
