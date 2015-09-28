@@ -82,3 +82,14 @@
   - {name: "google-plus", link: "https://plus.google.com/u/0/118249858632214940794"}
   - {name: "twitter", link: "https://twitter.com/jddam"}
   - {name: "linkedin", link: "https://es.linkedin.com/pub/albert-gil-lópez/96/160/448"}
+-
+  id: 9
+  name: "Pol"
+  surname: "Alvarez"
+  title: "Secretari del consell d'estudiants EE UAB"
+  thumbnailUrl: polAlvarez.jpg
+  team: true
+  ribbon:
+  - {abbr: "UAB", title: "Secretari del consell d'estudiants EE UAB"}
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/118429576271301219702/"}
