@@ -43,8 +43,8 @@
   complexity: "Basic"
 -
   id: 3
-  title: "Herramientas de productividad"
-  description: "Durante esta charla mostraré atajos para ser productivo con Sublime Text Editor, lo que trae mi repositorio de dotfiles para hacer la vida más fácil al desarrollador, y terminaré mostrando cómo usar fasd para moverte por los directorios a través de lo que ahora llaman 'frecency'"
+  title: "HTTP/2: cosas que deberías saber sobre tu servidor"
+  description: "Vente a esta charla para hablar sobre la versión 2.0 de HTTP, un protocolo diseñado para reducir en un 50% el tiempo de carga de tus páginas. Echaremos un pequeño vistazo a lo que sucede internamente en el navegador cuando detecta HTTP/2, cómo es el protocolo compatible hacia atrás, y cuáles son las ventajas de soportarlo ahora. Es hora de hablar de las otras cosas que soportan todos los navegadores a día de hoy."
   subtype: presentation
   speakers: [22]
   language: es
@@ -100,7 +100,7 @@
 -
   id: 10
   title: "Hardware for dummys"
-  description: "?"
+  description: "Es conocido que un informático vale para un roto o un descosido, si en tu empresa tienes un data-center pequeño , entre cinco o menos y sobre una veintena de  servidores o alguno mas, entonces te tocara pelearte con toda la instalación. Esta charla esta pensada para este colectivo los BOFH que tiene la obligación desde hacer desde un 'Java Master' hasta apretar la junta de la trocola de la copia de la cinta. Esta chala es imprescindible para adquirir conocimientos básicos para pelear con la gestión de una estructura de un data center interno que no puedes delegar, donde menos barrer (o tal vez si) hay que gestionar todos los recursos, tanto eléctricos, de estructura, de red, de discos y por su puesto de ordenadores."
   subtype: presentation
   speakers: [24]
   language: es
