@@ -186,10 +186,10 @@
   rockstar: true
   social:
   - {name: "twitter", link: "https://twitter.com/RicardGarriga"}
-  - {name: "instagram", link: "https://instagram.com/menorcamillennials/"}
+  - {name: "site", link: "https://instagram.com/menorcamillennials/"}
   - {name: "facebook", link: "https://www.facebook.com/MenorcaMillennials"}
   - {name: "twitter", link: "https://twitter.com/M_Millennials"}
-  - {name: "link", link: "http://www.menorcamillennials.com"}
+  - {name: "site", link: "http://www.menorcamillennials.com"}
 -
   id: 38
   name: "Jordi"
@@ -201,10 +201,10 @@
   rockstar: true
   social:
   - {name: "twitter", link: "https://twitter.com/vallsjordi"}
-  - {name: "instagram", link: "https://instagram.com/menorcamillennials/"}
+  - {name: "site", link: "https://instagram.com/menorcamillennials/"}
   - {name: "facebook", link: "https://www.facebook.com/MenorcaMillennials"}
   - {name: "twitter", link: "https://twitter.com/M_Millennials"}
-  - {name: "link", link: "http://www.menorcamillennials.com"}
+  - {name: "site", link: "http://www.menorcamillennials.com"}
 -
   id: 99
   name: "Mariano"
