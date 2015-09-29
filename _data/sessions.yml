@@ -132,7 +132,7 @@
 -
   id: 14
   title: "Project Tango de Google, virtualizando la realidad"
-  description: "?"
+  description: "El Proyecto Tango de Google incorpora capacidades avanzadas de visión por ordenador a la plataforma Android, además de procesamiento de imagen, visión y sensores especiales. En la charla se comentan las generalidades del proyecto y se realizan demostraciones en directo con un Project Tango directamente conectado al proyector."
   subtype: presentation
   speakers: [20]
   language: es
@@ -172,7 +172,7 @@
 -
   id: 19
   title: "Programa de becas de Google, el Google Summer of Code"
-  description: "?"
+  description: "El programa GSoC permite por un lado a estudiantes de universidad pasar los veranos programando y cobrando un buen dinero becados por Google, y por otro a proyectos de software libre conseguir nuevas colaboraciones de código. Andreu Ibáñez es mentor y organizador en los proyectos Liquid Galaxy, Interactive Spaces y CC Extractor, y con su larga experiencia de 5 años, múltiples charlas sobre el proyecto por toda Europa  y más de 50 becas conseguidas, nos introduce al programa, así como nos mostrará cómo sus alumnos han conseguido viajar a Google en repetidas ocasiones disfrutando de experiencias únicas."
   subtype: presentation
   speakers: [20]
   language: es
