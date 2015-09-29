@@ -100,7 +100,7 @@
 -
   id: 10
   title: "Hardware for dummys"
-  description: "Es conocido que un informático vale para un roto o un descosido, si en tu empresa tienes un data-center pequeño , entre cinco o menos y sobre una veintena de  servidores o alguno mas, entonces te tocara pelearte con toda la instalación. Esta charla esta pensada para este colectivo los BOFH que tiene la obligación desde hacer desde un 'Java Master' hasta apretar la junta de la trocola de la copia de la cinta. Esta chala es imprescindible para adquirir conocimientos básicos para pelear con la gestión de una estructura de un data center interno que no puedes delegar, donde menos barrer (o tal vez si) hay que gestionar todos los recursos, tanto eléctricos, de estructura, de red, de discos y por su puesto de ordenadores."
+  description: "Es conocido que un informático vale para un roto o un descosido, si en tu empresa tienes un data-center pequeño, entre cinco o menos y sobre una veintena de servidores o alguno mas, entonces te tocara pelearte con toda la instalación. Esta charla esta pensada para este colectivo, los BOFH, que tienen la obligación de hacer de 'Java Master' y de hasta apretar la junta de la trocola de la copia de la cinta. Esta charla es imprescindible para adquirir conocimientos básicos para pelear con la gestión de una estructura de un data center interno que no puedes delegar, donde menos barrer (o tal vez si) hay que gestionar todos los recursos, tanto eléctricos, de estructura, de red, de discos y por su puesto de ordenadores."
   subtype: presentation
   speakers: [24]
   language: es
