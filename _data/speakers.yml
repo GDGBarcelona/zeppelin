@@ -216,15 +216,3 @@
   rockstar: true
   social:
   - {name: "google-plus", link: "https://plus.google.com/105254279596652519741"}
--
-  id: 99
-  name: "Mariano"
-  surname: "Rajoy"
-  company: "¿pero esto luego se va a saber?"
-  title: "Presidente"
-  bio: "Tras años de duro esfuerzo memorizando la constitución española, Mariano se ha dado cuenta de que tenia la portada intercambiada con Ladrones, Grandes estafas de la historia económica mundial. Tras tal disquisición, que no conduce a parte alguna, decidió aprender el noble arte del ninja, y desaparecer tras un plasma."
-  thumbnailUrl: unkown_boy.png
-  rockstar: false
-  social:
-  - {name: "google-plus", link: "https://plus.google.com/118357487995361062740"}
-
