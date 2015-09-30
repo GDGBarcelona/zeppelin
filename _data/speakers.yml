@@ -206,6 +206,17 @@
   - {name: "twitter", link: "https://twitter.com/M_Millennials"}
   - {name: "site", link: "http://www.menorcamillennials.com"}
 -
+  id: 39
+  name: "Roberto"
+  surname: "Zoco"
+  company: "Carritus.com"
+  title: "CTO"
+  bio: "CTO de la startup Carritus.com, aterrizó en Bcn hace ya 5 años por casualidades de la vida. Ingeniero informático por la Universidad de Pais Vasco, intenta hacer que su vida sea mas facil gracias a los robots :D"
+  thumbnailUrl: robertoZoco.jpg
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/105254279596652519741"}
+-
   id: 99
   name: "Mariano"
   surname: "Rajoy"
