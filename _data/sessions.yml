@@ -84,7 +84,7 @@
 -
   id: 8
   title: "Ni faros, ni señales de humo, usa beacons"
-  description: "?"
+  description: "Seguro que has oído hablar antes del beacon pero te has quedado con las ganas de saber más sobre como funciona o de como incorporarlo a tu proyecto. En este workshop daremos un repaso a lo que la tecnología bluetooth low energy (BLE) puede proporcionarnos, conoceremos el proyecto physical web y los diferentes tipos de balizas bluetooth."
   subtype: presentation
   speakers: [29]
   language: es
@@ -180,7 +180,7 @@
 -
   id: 20
   title: "Fire databases with firebase"
-  description: "?"
+  description: "No existe una solución software completa sin persistencia de datos. ¿No sabéis qué diferencia hay entre una select y una join? Felicidades soys de los míos, alérgicos a las bases de datos. A mi me encantaría tener un sistema multiplataforma que permitiera interactuar con una base de datos como si se tratase de un objeto json y por tanto de forma universal a todos los clientes (rest, javascript, iOS, Android,..). ¿A qué molaría que además estos estuvieran sincronizados de forma automática? Lo que buscas se llama Firebase. Veremos como se trabaja con firebase y como utilizar el framework en nuestro proyecto Android."
   subtype: presentation
   speakers: [29]
   language: es
