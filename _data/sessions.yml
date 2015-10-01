@@ -5,22 +5,22 @@
   service: true
 -
   id: 999
-  title: "Inauguración"
+  title: "Inauguración (Sala de graus)"
   place: "Sala de graus"
   service: true
 -
   id: 998
-  title: "Final GDG Garage y sorteo"
+  title: "Final GDG Garage y sorteo (Sala de graus)"
   place: "Sala de graus"
   service: true
 -
   id: 997
-  title: "Networking & Birras"
+  title: "Networking & Birras (Hall)"
   place: "Hall"
   service: true
 -
   id: 996
-  title: "Actividad lúdica de cierre de la jornada"
+  title: "Actividad lúdica de cierre de la jornada (Hall)"
   place: "Hall"
   service: true
 -
