@@ -155,8 +155,8 @@
   complexity: "Basic"
 -
   id: 17
-  title: "Arduino"
-  description: "?"
+  title: "Arduino Bluetooth y Android"
+  description: "Charla sobre la comunicación entre Arduino y Android por medio de un modulo bluetooth."
   subtype: presentation
   speakers: [34]
   language: es
